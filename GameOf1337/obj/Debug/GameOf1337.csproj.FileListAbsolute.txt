@@ -1,0 +1,14 @@
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\bin\Debug\GameOf1337.exe.config
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\bin\Debug\GameOf1337.exe
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\bin\Debug\GameOf1337.pdb
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\MainWindow.g.cs
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\App.g.cs
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337_MarkupCompile.cache
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337_MarkupCompile.lref
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\MainWindow.baml
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.g.resources
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.Properties.Resources.resources
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.csproj.GenerateResource.Cache
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.exe
+c:\users\pontus\documents\visual studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.pdb
+C:\Users\Pontus\Documents\Visual Studio 2015\Projects\GameOf1337\GameOf1337\obj\Debug\GameOf1337.csprojResolveAssemblyReference.cache
